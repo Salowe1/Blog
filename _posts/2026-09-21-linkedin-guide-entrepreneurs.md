@@ -40,7 +40,7 @@ Un visiteur décide en quelques secondes s'il vous fait confiance. Soignez ces �
 - **La bannière** : une image qui montre ce que vous faites (logo, slogan, services).
 - **Le titre** : c'est ce qui s'affiche sous votre nom partout. Ne mettez pas seulement « Gérant ». Utilisez la formule *ce que vous faites + pour qui + le résultat* :
 
-> Digiworld | J'aide les PME du Burkina Faso à automatiser WhatsApp et à gagner du temps
+> Digiworld | J'aide les PME du Burkina Faso à automatiser Linkedin et à gagner du temps
 
 - **La section « À propos »** : trois parties courtes. Le problème de vos clients, votre solution, et comment vous contacter.
 - **La section « À la une »** : mettez-y votre meilleur article, votre catalogue ou un lien vers votre blog.
@@ -61,7 +61,7 @@ Ne cherchez pas à collectionner les contacts. Visez des personnes utiles : clie
 
 > ❌ Rien du tout (invitation vide)
 
-> ✅ Bonjour Awa, j'ai vu votre boutique en ligne et j'aime votre approche. Je travaille sur l'automatisation WhatsApp pour les PME. Ce serait un plaisir d'échanger avec vous.
+> ✅ Bonjour Awa, j'ai vu votre boutique en ligne et j'aime votre approche. Je travaille sur l'automatisation Linkedin pour les PME. Ce serait un plaisir d'échanger avec vous.
 
 Un message court, sincère et sans vente directe est accepté bien plus souvent.
 
@@ -71,7 +71,7 @@ Publier régulièrement vous rend visible auprès de votre réseau et des contac
 
 **Idées de contenu** :
 
-- une astuce courte et utile (par exemple : « 3 messages automatiques à créer sur WhatsApp Business ») ;
+- une astuce courte et utile (par exemple : « 3 messages automatiques à créer sur Linkedin ») ;
 - un retour d'expérience : un problème rencontré et comment vous l'avez résolu ;
 - une capture d'écran commentée, un avant/après ;
 - une question posée à votre réseau ;
