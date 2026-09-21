@@ -63,7 +63,7 @@ Les étiquettes permettent de classer vos conversations : *Nouveau client*, *Dev
 
 Créez un lien direct vers votre WhatsApp, à mettre sur votre page Facebook, vos cartes de visite et vos affiches. Le format est :
 
-`https://wa.me/22607077418`
+`https://wa.me/XXXXXXXX`
 
 Remplacez `XXXXXXXX` par votre numéro, sans espace ni le signe +.
 
