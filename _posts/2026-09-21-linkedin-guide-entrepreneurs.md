@@ -5,7 +5,7 @@ description: >-
   publier du contenu et transformer vos contacts en clients.
 date: 2026-09-21 18:00:00 +0000
 image:
-  path: /assets/img/posts/linkedin-guide.jpg
+  path: /assets/img/linkedin-guide.jpg
   alt: Exemple de profil LinkedIn optimisé et d'invitation personnalisée, par Digiworld
 categories: [LinkedIn]
 tags: [linkedin, prospection, pme, burkina faso]
