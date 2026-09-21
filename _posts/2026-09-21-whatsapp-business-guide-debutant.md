@@ -1,11 +1,16 @@
 ---
 title: "WhatsApp Business : le guide pour débuter et gagner du temps au Burkina Faso"
+
 description: >-
   Apprenez à configurer WhatsApp Business : profil, catalogue, messages
   automatiques et réponses rapides pour mieux servir vos clients.
 date: 2026-09-21 10:00:00 +0000
+image:
+  path: /assets/img/whatsapp-guide.jpg
+  alt: Écran de configuration de WhatsApp Business
 categories: [WhatsApp Business]
 tags: [whatsapp business, automatisation, pme, burkina faso]
+
 ---
 
 Vos clients vous écrivent déjà sur WhatsApp. Le problème, c'est de répondre vite, de garder un aspect professionnel et de ne rien oublier. **WhatsApp Business**, l'application gratuite de Meta, a été conçue pour cela. Dans ce guide, vous apprendrez à la configurer étape par étape.
