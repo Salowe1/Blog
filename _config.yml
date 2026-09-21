@@ -4,17 +4,14 @@
 theme: jekyll-theme-chirpy
 
 # The language of the webpage
-lang: en
-
-# Change to your timezone
-timezone: Asia/Shanghai          # ← change if needed
+lang: fr-FR
+timezone: Africa/Ouagadougou      # ← change if needed
 
 # jekyll-seo-tag settings
 # ↓ --------------------------
-title: Chirpy
-tagline: A text-focused Jekyll theme
-description: >-
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+title: Apprenez gratuitement
+tagline: Whatsapp, Facebook, Instagram, Linkedin
+description: "Augmentez votre chiffre d'affaire grâce aux réseaux sociaux"
 
 # IMPORTANT: These two lines must match your repository
 url: "https://Salowe1.github.io"
@@ -24,11 +21,11 @@ github:
   username: Salowe1
 
 twitter:
-  username: twitter_username     # change or remove
+  username: saloweadouabou    # change or remove
 
 social:
-  name: Your Full Name           # ← change this
-  email: example@domain.com      # ← change this
+  name: Digiworld           # ← change this
+  email: adouabousalowe@gmail.com      # ← change this
   fediverse_handle:
   links:
     - https://github.com/Salowe1
