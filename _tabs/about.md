@@ -25,5 +25,5 @@ Des guides pratiques, écrits simplement et pensés pour les PME burkinabè : tu
 ## Contactez-nous
 
 - WhatsApp : [Écrivez-nous](https://wa.me/22607077418)
-- Facebook : [Notre page]([https://web.facebook.com/Its.salowe/])
+- Facebook : [Notre page](https://www.facebook.com/Its.salowe)
 - Email : adouabousalowe@gmail.com
